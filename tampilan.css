@@ -1,0 +1,86 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html, body, section
+{
+    height: 100%;
+    scroll-behavior: smooth;
+}
+
+body, section
+{
+    position: relative;
+}
+
+section
+{
+    padding: 100px;
+    position: relative;
+}
+
+.warnanav
+{
+    background-color: mediumslateblue;
+    
+}
+.img33
+{
+    width: 100%;
+}
+
+.navi
+{
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+}
+
+.tulisan
+{
+    padding: 70px;
+    margin-top: 50px;
+}
+
+.agc
+{
+    padding: 40px;
+}
+body
+{
+    background-color: lightyellow;
+}
+
+.sv
+{
+    padding: 10px;
+    margin-top: 20px;
+}
+
+h2{
+    color: darkred;
+}
+
+.fm
+{
+    margin-top: 7px;
+}
+
+#Experience
+{
+    background-color: greenyellow;
+}
+
+#Service
+{
+    background-color: green
+}
+
+#Contact
+{
+    background-color: darkolivegreen;
+}
