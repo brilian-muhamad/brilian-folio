@@ -52,7 +52,7 @@ section
 }
 body
 {
-    background-color: lightyellow;
+    background-color: gainsboro;
 }
 
 .sv
@@ -62,7 +62,7 @@ body
 }
 
 h2{
-    color: darkred;
+    color: darkorange;
 }
 
 .fm
@@ -82,5 +82,21 @@ h2{
 
 #Contact
 {
-    background-color: darkolivegreen;
+    background-color: black;
+}
+
+
+.ctk
+{
+    color: white;
+}
+
+.kartu
+{
+    height: 80%;
+}
+
+.titel
+{
+    margin-top: 27px;
 }
